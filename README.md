@@ -2,8 +2,7 @@
 
 ## Dev Container
 
-[![Open in VS Code](https://img.shields.io/badge/Open_in_VS_Code-007ACC?logo=visual-studio-code)](https://github.com/spacecupcake1/Modul347.git)
-## Overview
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/spacecupcake1/Modul347)
 
 The Movie API is a web service built with FastAPI that allows users to perform CRUD (Create, Read, Update, Delete) operations on a collection of movies. It provides endpoints to manage movies, including creating new movies, retrieving movie details, updating existing movies, and deleting movies from the database.
 
