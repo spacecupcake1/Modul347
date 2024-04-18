@@ -47,13 +47,7 @@ The Movie API is a web service built with FastAPI that allows users to perform C
 
     This will start the FastAPI application along with the MySQL database and PHPMyAdmin tool. You can access the application at `http://localhost:8000` by default, and PHPMyAdmin at `http://localhost:8085`.
 
-## Usage
-
-1. **API Documentation**:
-
-    After starting the application, you can access the automatically generated interactive API documentation (Swagger UI) at `http://localhost:8000/docs`. This documentation provides detailed information about the available endpoints, request and response formats, and allows you to test the API directly from your browser.
-
-2. **Example Usage**:
+## Example Usage
 
     The `example_usage` function in `main.py` demonstrates how to use the repository functions to interact with the database. You can uncomment and modify the function as needed to test the CRUD operations.
 
