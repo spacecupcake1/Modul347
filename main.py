@@ -5,6 +5,7 @@ from repository import get_movies, create_movie, get_movie, update_movie, delete
 from schemas import MovieCreate, MovieUpdate
 from dotenv import load_dotenv
 import os
+import time
 
 load_dotenv()
 
